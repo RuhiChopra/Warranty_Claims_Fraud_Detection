@@ -49,7 +49,7 @@ Machine learning models employed:
 - **Logistic Regression**
 
 **Performance**:
-- Achieved accuracy levels of 91-92% in predicting fraudulent claims.
+- Achieved accuracy levels of 95% in predicting fraudulent claims.
 - Models showed excellent accuracy but lower recall scores for fraudulent claims due to the limited number of fraudulent instances and small dataset size. This can be improved by expanding the dataset.
 
 ## Future Work
